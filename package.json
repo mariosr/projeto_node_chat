@@ -1,5 +1,5 @@
 {
-  "name": "NodeChatSystem",
+  "name": "mariofalcao",
   "version": "0.0.1",
   "description": "Realtime chat system for Tutorialzine.com",
   "main": "app.js",
@@ -8,8 +8,8 @@
     "chat",
     "system"
   ],
-  "author": "Nikolay Anastasov",
-  "license": "MIT",
+  "author": " mariofalcao",
+  "license": "ufc",
   "dependencies": {
     "express": "~3.5.0",
     "gravatar": "~1.0.6",
